@@ -21,4 +21,4 @@ Outgoing:
 ```
 
 Number of variables (columns) may be different, aside from `size`, `color`, `length`, there may be other parameters.
-Solution should be in a separate file in the same repo.
+Solution should be in a separate file in a new repo.
